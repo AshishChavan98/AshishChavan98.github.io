@@ -18,19 +18,19 @@ body,html{
     /* margin:0 auto; */
     float:right;
     font-family: 'Roboto', sans-serif;
-    font-size:32px;
+    font-size:2.7em;
     width: 75%;
-    margin-top:200px;
+    margin-top:160px;
 }
 .sub-text{
     font-family: 'Roboto Condensed';
-    font-size: 20px;
+    font-size: 0.5em;
     margin-top:4px;
     font-weight: 200;
 }
 .main-text{
     color:#4B39F9;
-    font-size: 45px;
+    font-size: 1.4em;
 	
 }
 .navbar-text{
@@ -80,7 +80,7 @@ body,html{
 } 
 
 .person-svg{
-    width:80%;
+    width:70%;
     /* padding-top:80px; */
     margin-top:120px;
 
@@ -162,5 +162,6 @@ body,html{
     .placeholder-1{
        
         width:90%;
+        margin-bottom: 30px;
     }
 }
